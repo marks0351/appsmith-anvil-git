@@ -25,7 +25,23 @@
             {
               "layoutId": "ymld21d0u1",
               "layoutType": "ALIGNED_LAYOUT_COLUMN",
-              "layout": [],
+              "layout": [
+                {
+                  "insertChild": true,
+                  "isDropTarget": false,
+                  "isPermanent": false,
+                  "layout": [
+                    {
+                      "alignment": "start",
+                      "widgetId": "y370kw1a1x",
+                      "widgetType": "SECTION_WIDGET"
+                    }
+                  ],
+                  "layoutId": "lig5zee7xi",
+                  "layoutType": "WIDGET_ROW",
+                  "maxChildLimit": 1
+                }
+              ],
               "layoutStyle": {
                 "border": "none",
                 "height": "100%",
