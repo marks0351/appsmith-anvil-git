@@ -1,0 +1,67 @@
+{
+  "unpublishedPage": {
+    "name": "Page1",
+    "slug": "page1",
+    "layouts": [
+      {
+        "viewMode": false,
+        "dsl": {
+          "widgetName": "MainContainer",
+          "backgroundColor": "none",
+          "rightColumn": 4896,
+          "snapColumns": 64,
+          "detachFromLayout": true,
+          "widgetId": "0",
+          "topRow": 0,
+          "bottomRow": 380,
+          "containerStyle": "none",
+          "snapRows": 124,
+          "parentRowSpace": 1,
+          "type": "CANVAS_WIDGET",
+          "canExtend": true,
+          "version": 89,
+          "minHeight": 1292,
+          "layout": [
+            {
+              "layoutId": "ymld21d0u1",
+              "layoutType": "ALIGNED_LAYOUT_COLUMN",
+              "layout": [],
+              "layoutStyle": {
+                "border": "none",
+                "height": "100%",
+                "padding": "spacing-4",
+                "gap": "spacing-4"
+              },
+              "isDropTarget": true,
+              "isPermanent": true,
+              "childTemplate": {
+                "insertChild": true,
+                "isDropTarget": false,
+                "isPermanent": false,
+                "layout": [],
+                "layoutId": "",
+                "layoutType": "WIDGET_ROW",
+                "maxChildLimit": 1
+              }
+            }
+          ],
+          "dynamicTriggerPathList": [],
+          "parentColumnSpace": 1,
+          "dynamicBindingPathList": [],
+          "leftColumn": 0
+        },
+        "layoutOnLoadActions": [],
+        "layoutOnLoadActionErrors": [],
+        "validOnPageLoadActions": true,
+        "id": "Page1",
+        "deleted": false,
+        "policies": [],
+        "userPermissions": []
+      }
+    ],
+    "userPermissions": [],
+    "policies": []
+  },
+  "deleted": false,
+  "gitSyncId": "6666e7fc2fa2962b61bfc0eb_ba04dec5-90bc-4728-8fe5-ad2831688ddf"
+}
